@@ -13,6 +13,8 @@ function getRandomColor() {
     return color
 }
 
+
+//FUNCAO PARA ADICIONAR O NOSSO NUMERO GERADO AUTOMATICAMENTE AO NOSSO HTML:: 
 function setColor() {
     colorPad.style.backgroundColor = getRandomColor()
     color.innerText = (getRandomColor())

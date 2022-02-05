@@ -1,4 +1,4 @@
-# RANDOM COLOR GENERATOR
+# RANDOM COLOR GENERATOR (Syled with TailwindCSS)
 
 Practice FOR LOOP and DOM EVENTS;
 <br>

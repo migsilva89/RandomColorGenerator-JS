@@ -1,5 +1,5 @@
 # RANDOM COLOR GENERATOR 
-## Syled with TailwindCSS
+## Styled with TailwindCSS
 <br>
 <br>
 
